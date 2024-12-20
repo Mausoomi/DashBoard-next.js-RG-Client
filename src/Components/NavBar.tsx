@@ -3,7 +3,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import logo from "../../public/logo.png";
-import { IoIosArrowBack } from "react-icons/io";
+//import { IoIosArrowBack } from "react-icons/io";
 import { IoIosArrowDown } from "react-icons/io";
 import { RiSearchLine } from "react-icons/ri";
 import chat from "../../public/icons/chat.png";
